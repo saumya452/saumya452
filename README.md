@@ -2,51 +2,48 @@
 
 Hi, I'm Saumya 👋
 
-Aspiring Cybersecurity Professional
+Aspiring Cybersecurity Student
 
-🎓 Incoming Engineering Student from India
+I am passionate about cybersecurity, networking, Linux systems, and programming. I am currently building my technical foundation through hands-on learning, projects, and practical cybersecurity exercises.
 
-🔐 Passionate about Cybersecurity, Ethical Hacking, Networking, and Digital Forensics.
-
-🚀 Currently Learning
+Currently Learning
 
 - Linux
 - Python
 - Git & GitHub
-- Networking Fundamentals
-- Cybersecurity Basics
+- Computer Networking
+- Cybersecurity Fundamentals
 - Wireshark
 - Nmap
 
-🛠 Skills
+Areas of Interest
 
-- Python
-- Linux
-- Git
-- Networking
-- Problem Solving
-
-🎯 2026 Goals
-
-- Complete cybersecurity certifications
-- Build a home cybersecurity lab
-- Participate in CTF competitions
-- Learn web application security
-- Create cybersecurity projects
-
-📚 Current Focus
-
-- Ethical Hacking
 - Network Security
+- Ethical Hacking
 - Digital Forensics
 - Security Operations
+- Cyber Defense
 
-📈 GitHub Journey
+Current Goals
 
-I am documenting my learning journey and projects as I develop my cybersecurity and programming skills.
+- Build cybersecurity projects
+- Complete cybersecurity labs and challenges
+- Develop strong programming skills
+- Create a public portfolio of my learning journey
 
-📫 Connect With Me
+Planned Portfolio Projects
 
-- GitHub: @saumya452
+- Linux Command Reference
+- Networking Fundamentals Notes
+- Python Security Tools
+- Nmap Scanning Practice
+- Wireshark Packet Analysis Notes
+- CTF Writeups
 
-«"Learning, building, and securing one system at a time."» 
+GitHub Journey
+
+This profile documents my growth as a future cybersecurity professional.
+
+GitHub: @saumya452
+
+«Every expert was once a beginner.» 
