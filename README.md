@@ -1,16 +1,52 @@
-## Hi there 👋
 
-<!--
-**saumya452/saumya452** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi, I'm Saumya 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aspiring Cybersecurity Professional
+
+🎓 Incoming Engineering Student from India
+
+🔐 Passionate about Cybersecurity, Ethical Hacking, Networking, and Digital Forensics.
+
+🚀 Currently Learning
+
+- Linux
+- Python
+- Git & GitHub
+- Networking Fundamentals
+- Cybersecurity Basics
+- Wireshark
+- Nmap
+
+🛠 Skills
+
+- Python
+- Linux
+- Git
+- Networking
+- Problem Solving
+
+🎯 2026 Goals
+
+- Complete cybersecurity certifications
+- Build a home cybersecurity lab
+- Participate in CTF competitions
+- Learn web application security
+- Create cybersecurity projects
+
+📚 Current Focus
+
+- Ethical Hacking
+- Network Security
+- Digital Forensics
+- Security Operations
+
+📈 GitHub Journey
+
+I am documenting my learning journey and projects as I develop my cybersecurity and programming skills.
+
+📫 Connect With Me
+
+- GitHub: @saumya452
+
+«"Learning, building, and securing one system at a time."» 
