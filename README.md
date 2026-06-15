@@ -47,3 +47,10 @@ This profile documents my growth as a future cybersecurity professional.
 GitHub: @saumya452
 
 «Every expert was once a beginner.» 
+## Projects
+
+### Password Strength Checker
+A Python tool that evaluates password strength based on security best practices.
+
+### Python Port Scanner
+A simple port scanner built using Python sockets for networking education.
